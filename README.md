@@ -11,7 +11,7 @@ Data Overview
 
 Data Source: The data used for analysis was collected from the 2020 and 2021 Athletic Sales csv.
 Time Period: January – December 2020 and 2021.
-Data Format: The data is structured and stored in Pandas, and Juypiter notebooks.
+Data Format: The data is structured and stored in Pandas, and Jupyiter notebooks.
 
 Analysis
 
